@@ -89,7 +89,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/four-product/)
 > > >
-> > > <img src="../four-product.png" width="300px" height="200px">
+> > > <img src="four-product.png" width="300px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -99,21 +99,6 @@
 > > >   - Front End Mentor
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/four-product.git)
-> > >
-> > > ### four-product
-> > >
-> > > A clean, responsive Four-Card Feature Section designed with a mobile-first workflow. Focused on implementing high-fidelity UI details, including subtle shadows and semantic HTML structure."
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/four-product/)
-> > >
-> > > <img src="four-product.png" width="300px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/four-product.git)
 > > >
