@@ -48,7 +48,7 @@
 > > >   - Front End Mentor
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-.git)
-> > >
+> > > ---
 > > > ### qr-code
 > > >
 > > > A responsive QR code component built with HTML and CSS, focusing on clean layout and alignment.
@@ -65,7 +65,7 @@
 > > >   - Front End Mentor
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/qr-code-frontend-meentor.git)
-> > >
+> > > ---
 > > > ### testmonials
 > > >
 > > > modern Testimonials section built with a Mobile-First approach. Focused on implementing clean typography and precise shadow effects to match the original design spec."
@@ -82,7 +82,7 @@
 > > >   - Front End Mentor
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/testmonials.git)
-> > >
+> > > ---
 > > > ### four-product
 > > >
 > > > A clean, responsive Four-Card Feature Section designed with a mobile-first workflow. Focused on implementing high-fidelity UI details, including subtle shadows and semantic HTML structure."
@@ -101,11 +101,11 @@
 > > > [repo](https://github.com/Ahmed-let-front/four-product.git)
 > > >
 > > > [repo](https://github.com/Ahmed-let-front/four-product.git)
-> > >
+> > > ---
 > > > ### chanel product
 > > >
 > > > "A sleek, responsive Product Card design built with a mobile-first approach. Focused on achieving a high-fidelity match to the design specification, including custom fonts, precise spacing, and optimized images for different screen sizes."
-> > >
+> > > 
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/product-chanel/)
 > > >
 > > > <img src="chanel.png" width="400px" height="200px">
@@ -120,7 +120,7 @@
 > > > [repo](https://github.com/Ahmed-let-front/product-chanel.git)
 > > >
 > > > ### recipe
-> > >
+> > > ---
 > > > "A responsive implementation of a Recipe Page challenge. Key features include the use of custom fonts, styled ordered and unordered lists, and a well-structured HTML table for nutritional facts, all while maintaining a pixel-perfect design."
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/recipe/)
@@ -137,7 +137,7 @@
 > > > [repo](https://github.com/Ahmed-let-front/recipe.git)
 > > >
 > > > ### social-links
-> > >
+> > > ---
 > > > A high-fidelity implementation of a Social Links landing page. Key features include semantic HTML5, custom button styling with transition effects, and a fully responsive layout that adapts flawlessly to different screen resolutions."
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/social-links/)
