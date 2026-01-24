@@ -1,213 +1,63 @@
-<h1 align="center"> <strong>Ahmed</strong> Front-End-Developer </h1>
+<h1 align="center"> 🚀 Hi, I'm Ahmed </h1>
+<h3 align="center">Passionate Front-End Developer | 15 Years Old</h3>
 
-> ## About me
->
-> > I’m Ahmed, a 15-year-old Front-End Developer who has been
-> > learning and practicing web development for the past 6 months. I work with HTML and CSS and focus on building clean, - well-structured, and responsive user interfaces. I have completed 9 front-end projects, including 2 landing pages and 7 challenges from Frontend Mentor, which helped me improve my layout skills and attention to design details. Currently, I’m planning to expand my skill set by learning Tailwind CSS and Sass to write more efficient and scalable styles.
-
-## Technical Skills
-
-- HTML5 (Semantic HTML)
-- CSS3
-- Flexbox & Grid
-- Responsive Design
-- Git
-- Githup
-- command line
-- Markdown
-
-## Tools
-
-- git
-- githup
-- vs code
-
-## Concepts
-
-- Clean Code
-- UI Layout Implementation
-- Cross-Browser Compatibility
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-> ## Front End Mentor Projects
->
-> > ### bento grid
-> >
-> > > bento grid layout designed to organize content into visually balanced sections, focusing on spacing, alignment, and responsive design.
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/)
-> > >
-> > > <img src="bento-grid.png" width="400px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-.git)
-> > > ---
-> > > ### qr-code
-> > >
-> > > A responsive QR code component built with HTML and CSS, focusing on clean layout and alignment.
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/qr-code-frontend-meentor/)
-> > >
-> > > <img src="qr.png" width="400px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/qr-code-frontend-meentor.git)
-> > > ---
-> > > ### testmonials
-> > >
-> > > modern Testimonials section built with a Mobile-First approach. Focused on implementing clean typography and precise shadow effects to match the original design spec."
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/testmonials//)
-> > >
-> > > <img src="testmonials.png" width="400px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/testmonials.git)
-> > > ---
-> > > ### four-product
-> > >
-> > > A clean, responsive Four-Card Feature Section designed with a mobile-first workflow. Focused on implementing high-fidelity UI details, including subtle shadows and semantic HTML structure."
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/four-product/)
-> > >
-> > > <img src="four-product.png" width="300px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/four-product.git)
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/four-product.git)
-> > > ---
-> > > ### chanel product
-> > >
-> > > "A sleek, responsive Product Card design built with a mobile-first approach. Focused on achieving a high-fidelity match to the design specification, including custom fonts, precise spacing, and optimized images for different screen sizes."
-> > > 
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/product-chanel/)
-> > >
-> > > <img src="chanel.png" width="400px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/product-chanel.git)
-> > >
-> > > ### recipe
-> > > ---
-> > > "A responsive implementation of a Recipe Page challenge. Key features include the use of custom fonts, styled ordered and unordered lists, and a well-structured HTML table for nutritional facts, all while maintaining a pixel-perfect design."
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/recipe/)
-> > >
-> > > <img src="recipe.png" width="400px" height="400px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/recipe.git)
-> > >
-> > > ### social-links
-> > > ---
-> > > A high-fidelity implementation of a Social Links landing page. Key features include semantic HTML5, custom button styling with transition effects, and a fully responsive layout that adapts flawlessly to different screen resolutions."
-> > >
-> > > - [LIVE DEMO](https://ahmed-let-front.github.io/social-links/)
-> > >
-> > > <img src="social-links.png" width="400px" height="200px">
-> > >
-> > > - Technologies used
-> > >   - Html
-> > >   - css
-> > >   - Git
-> > >   - Githup
-> > >   - Front End Mentor
-> > >
-> > > [repo](https://github.com/Ahmed-let-front/social-links.git)
+### 👤 About Me
+I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **6 months**, I’ve been coding for **8 hours daily**, diving deep into the "whys" and "hows" of web development. I focus on building pixel-perfect, responsive, and clean user interfaces.
 
-> ## landing page-1
->
-> "A professional, multi-section Agency Landing Page. This project demonstrates my expertise in building complex web layouts from scratch using Semantic HTML5 and Modern CSS, featuring a responsive navigation bar, a creative portfolio grid, and smooth scrolling effects."
->
-> - [Live Demo](https://ahmed-let-front.github.io/leon-template/)
->
-> <img src="leon.png"></img>
->
-> - Technologies used
-  >     - Html
-  >     - css
-  >     - Git
-  >     - Githup
->
-> - [repo](https://github.com/Ahmed-let-front/leon-template.git)
-
-> ## landing page-2
->
-> "A professional, multi-section Agency Landing Page. This project demonstrates my expertise in building complex web layouts from scratch using Semantic HTML5 and Modern CSS, featuring a responsive navigation bar, a creative portfolio grid, and smooth scrolling effects."
->
-> - [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/)
->
-> <img src="kasper.png"></img>
->
-> - Technologies used
-  >     - Html
-  >     - css
-  >     - Git
-  >     - Githup
->
-> - [repo](https://github.com/Ahmed-let-front/kasper-template-tow.git)
-
-### What I Learned
-
-1. Building real-world front-end projects using HTML and CSS, with a strong focus on clean structure and modern design principles.
-2. Creating responsive designs that work smoothly across different screen sizes and devices.
-3. Using Git and GitHub for version control and managing projects efficiently.
-4. Working with the command line to improve development speed and workflow.
-5. Writing clear and organized documentation using Markdown.
-6. Learning by asking “why”, “how”, and “what happens if”, which helped me deeply understand concepts instead of memorizing solutions.
-7. Completing 9 projects, including 7 Frontend Mentor challenges, to strengthen layout, responsiveness, and problem-solving skills.
-8. Coding consistently every day for around 8 hours, experimenting, debugging, and continuously improving my development process.
+* 🎯 **Completed:** 9 Projects (7 Frontend Mentor Challenges + 2 Multi-section Landing Pages).
+* 🛠️ **Current Focus:** Mastering CSS Architecture (Sass & Tailwind).
+* 🚀 **Future Goal:** Full-stack development starting with JavaScript.
 
 ---
 
-### Future Plans
+### 💻 Technical Toolbox
+| **Category** | **Skills / Tools** |
+| :--- | :--- |
+| **Languages** | HTML5, CSS3, Markdown |
+| **Layouts** | Flexbox, CSS Grid, Responsive Design |
+| **Tools** | Git, GitHub, Command Line, VS Code |
+| **Concepts** | Clean Code, UI Layout Implementation, Cross-Browser Compatibility |
 
-1. Learning Tailwind CSS to build unique and flexible designs without relying on predefined components, allowing for more creative and custom layouts.
-2. Using Sass to write cleaner, more organized, and scalable CSS, making the styling process faster and easier to maintain.
-3. Continuously practicing and building more projects to strengthen design implementation and problem-solving skills.
-4. Starting JavaScript to add interactivity and dynamic behavior to web pages.
-5. Exploring JavaScript libraries after building a solid foundation in core JavaScript concepts.
 ---
-> ### social-media
->
-> - [Linked in](https://www.linkedin.com/in/ayr-uio-954897370/)
->
-> - [Githup](https://github.com/Ahmed-let-front)
+
+### 📂 Featured Projects (The Gallery)
+
+| Project Preview | Details |
+| :--- | :--- |
+| <img src="leon.png" width="350"> | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template) |
+| <img src="kasper.png" width="350"> | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI and clean code.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow) |
+| <img src="bento-grid.png" width="350"> | **Bento Grid Layout**<br>Mastering complex CSS Grid placements and responsive alignment.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \| [Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
+| <img src="testmonials.png" width="350"> | **Testimonials Grid**<br>Mobile-first layout with custom shadow effects and clean typography.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/testmonials/) \| [Repo](https://github.com/Ahmed-let-front/testmonials) |
+| <img src="chanel.png" width="350"> | **Product Preview Card**<br>Focused on art direction and responsive image switching.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/product-chanel/) \| [Repo](https://github.com/Ahmed-let-front/product-chanel) |
+| <img src="recipe.png" width="350"> | **Recipe Page**<br>Organized layout using semantic HTML tables and custom lists.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/recipe/) \| [Repo](https://github.com/Ahmed-let-front/recipe) |
+| <img src="social-links.png" width="350"> | **Social Links Profile**<br>Minimalist UI with smooth CSS hover transitions.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/social-links/) \| [Repo](https://github.com/Ahmed-let-front/social-links) |
+| <img src="four-product.png" width="350"> | **Four-Card Feature Section**<br>Responsive multi-column grid with custom border accents.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/four-product/) \| [Repo](https://github.com/Ahmed-let-front/four-product) |
+| <img src="qr.png" width="350"> | **QR Code Component**<br>A simple, clean, and fully responsive QR component.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/qr-code-frontend-meentor/) \| [Repo](https://github.com/Ahmed-let-front/qr-code-frontend-meentor) |
+
+---
+
+### 📈 Learning Journey & Achievements
+1. **Consistency:** Coding every day for 8+ hours.
+2. **Methodology:** Learning by understanding the "How" and "Why" behind every line of code.
+3. **Control:** Proficient in using Command Line and Git for version control.
+4. **Documentation:** Writing clear Markdown for better project maintenance.
+
+---
+
+### 📫 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/ayr-uio-954897370/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Ahmed-let-front" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+<p align="center">"Coding is not just about writing lines; it's about solving problems." 💻✨</p>
