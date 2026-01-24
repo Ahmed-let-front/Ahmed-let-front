@@ -38,7 +38,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/)
 > > >
-> > > <img src="../bento-grid.png" width="400px" height="200px">
+> > > <img src="bento-grid.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -55,7 +55,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/qr-code-frontend-meentor/)
 > > >
-> > > <img src="../qr.png" width="400px" height="200px">
+> > > <img src="qr.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -72,7 +72,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/testmonials//)
 > > >
-> > > <img src="../testmonials.png" width="400px" height="200px">
+> > > <img src="testmonials.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -106,7 +106,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/four-product/)
 > > >
-> > > <img src="../four-product.png" width="300px" height="200px">
+> > > <img src="four-product.png" width="300px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -123,7 +123,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/product-chanel/)
 > > >
-> > > <img src="../chanel.png" width="400px" height="200px">
+> > > <img src="chanel.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -140,7 +140,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/recipe/)
 > > >
-> > > <img src="../recipe.png" width="400px" height="400px">
+> > > <img src="recipe.png" width="400px" height="400px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -157,7 +157,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/social-links/)
 > > >
-> > > <img src="../social-links.png" width="400px" height="200px">
+> > > <img src="social-links.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
@@ -174,7 +174,7 @@
 >
 > - [Live Demo](https://ahmed-let-front.github.io/leon-template/)
 >
-> <img src="../leon.png"></img>
+> <img src="leon.png"></img>
 >
 > - Technologies used
   >     - Html
@@ -190,7 +190,7 @@
 >
 > - [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/)
 >
-> <img src="../kasper.png"></img>
+> <img src="kasper.png"></img>
 >
 > - Technologies used
   >     - Html
