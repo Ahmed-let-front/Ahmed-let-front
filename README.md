@@ -38,7 +38,7 @@
 > > >
 > > > - [LIVE DEMO](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/)
 > > >
-> > > <img src="../bento.png" width="400px" height="200px">
+> > > <img src="../bento-grid.png" width="400px" height="200px">
 > > >
 > > > - Technologies used
 > > >   - Html
