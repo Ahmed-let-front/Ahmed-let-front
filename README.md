@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Hi, I'm Ahmed </h1>
+ <h1 align="center"> 🚀 Hi, I'm Ahmed </h1>
 <h3 align="center">Passionate Front-End Developer | 15 Years Old</h3>
 
 <p align="center">
@@ -15,13 +15,13 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **6 months**, I
 
 * 🎯 **Completed:** 9 Projects (7 Frontend Mentor Challenges + 2 Multi-section Landing Pages).
 * 🛠️ **Current Focus:** Mastering CSS Architecture (Sass & Tailwind).
-* 🚀 **Future Goal:** Full-stack development starting with JavaScript.
+* 🚀 **Future Goal:** Front end development starting with react.
 
 ---
 
 ### 💻 Technical Toolbox
 | **Category** | **Skills / Tools** |
-| :--- | :--- |
+| --- | --- |
 | **Languages** | HTML5, CSS3, Markdown |
 | **Layouts** | Flexbox, CSS Grid, Responsive Design |
 | **Tools** | Git, GitHub, Command Line, VS Code |
@@ -33,9 +33,10 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **6 months**, I
 
 | Project Preview | Details |
 | :--- | :--- |
+| <img src="RIS.png" width="350"> | **Ris landing hoodie** <br> Official RIS Class of 2027 hoodie: high-quality, customizable, and stylish. <br> 🔗 [ Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git)   |
 | <img src="leon.png" width="350"> | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template) |
 | <img src="kasper.png" width="350"> | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI and clean code.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow) |
-| <img src="bento-grid.png" width="350"> | **Bento Grid Layout**<br>Mastering complex CSS Grid placements and responsive alignment.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \| [Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
+| <img src="bento-grid.png" width="350"> | **Bento Grid Layout**<br>Mastering complex CSS Grid placements and responsive alignment.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \|[Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
 | <img src="testmonials.png" width="350"> | **Testimonials Grid**<br>Mobile-first layout with custom shadow effects and clean typography.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/testmonials/) \| [Repo](https://github.com/Ahmed-let-front/testmonials) |
 | <img src="chanel.png" width="350"> | **Product Preview Card**<br>Focused on art direction and responsive image switching.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/product-chanel/) \| [Repo](https://github.com/Ahmed-let-front/product-chanel) |
 | <img src="recipe.png" width="350"> | **Recipe Page**<br>Organized layout using semantic HTML tables and custom lists.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/recipe/) \| [Repo](https://github.com/Ahmed-let-front/recipe) |
