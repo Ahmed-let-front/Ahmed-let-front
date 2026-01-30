@@ -13,7 +13,7 @@
 ### 👤 About Me
 I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **6 months**, I’ve been coding for **8 hours daily**, diving deep into the "whys" and "hows" of web development. I focus on building pixel-perfect, responsive, and clean user interfaces.
 
-* 🎯 **Completed:** 9 Projects (7 Frontend Mentor Challenges + 2 Multi-section Landing Pages).
+* 🎯 **Completed:** 10 Projects (7 Frontend Mentor Challenges + 3 Multi-section Landing Pages).
 * 🛠️ **Current Focus:** Mastering CSS Architecture (Sass & Tailwind).
 * 🚀 **Future Goal:** Front end development starting with react.
 
