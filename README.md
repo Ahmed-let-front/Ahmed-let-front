@@ -33,7 +33,7 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **6 months**, I
 
 | Project Preview | Details |
 | :--- | :--- |
-| <img src="RIS.png" width="350"> | **Ris landing hoodie** <br> Official RIS Class of 2027 hoodie: high-quality, customizable, and stylish. <br> 🔗 [ Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git)   |
+| <img src="RIS.png" width="350"> | **Ris landing hoodie (Ris)**<br> Official RIS Class of 2027 hoodie: high-quality, customizable, and stylish. <br> 🔗 [ Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git)   |
 | <img src="leon.png" width="350"> | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template) |
 | <img src="kasper.png" width="350"> | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI and clean code.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow) |
 | <img src="bento-grid.png" width="350"> | **Bento Grid Layout**<br>Mastering complex CSS Grid placements and responsive alignment.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \|[Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
