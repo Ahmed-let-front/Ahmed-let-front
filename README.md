@@ -24,6 +24,11 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **7 months**, I
 | **Workflow** | Git, GitHub, Command Line (CLI), VS Code |
 | **Key Concepts** | Utility-First CSS, Clean Code, Performance Optimization, SEO, Responsive Design |
 
+### 🎯 Future Goals (Learning Roadmap)
+* 🛠️ **Sass:** To master advanced CSS architecture and pre-processing.
+* 🧠 **JavaScript:** Diving deep into logic to build interactive web applications.
+* ⚛️ **React.js:** Mastering the most popular JS framework for building modern SPAs.
+
 ### 🛠️ Deep Dive: Tailwind CSS vs. Bootstrap
 * **The Philosophy:** While Bootstrap gives you a pre-made "Door", Tailwind gives you the handle, wood, and paint to build your own. You architect the UI, you don't just use it.
 * **Modern Setup:** I utilize **Vite** for its speed and **Tailwind v4** for its CSS-first approach, moving away from heavy JS configurations.
@@ -35,8 +40,6 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **7 months**, I
 | <img src="RIS.png" width="350"> | **Ris landing hoodie (Built with Tailwind)**<br> My latest work refactored from Vanilla CSS to Tailwind CSS v4. <br> 🔗 [ Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git)  |
 | <img src="leon.png" width="350"> | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template) |
 | <img src="kasper.png" width="350"> | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI and clean code.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow) |
-| <img src="bento-grid.png" width="350"> | **Bento Grid Layout**<br>Mastering complex CSS Grid placements and responsive alignment.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \| [Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
-| <img src="testmonials.png" width="350"> | **Testimonials Grid**<br>Mobile-first layout with custom shadow effects and clean typography.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/testmonials/) \| [Repo](https://github.com/Ahmed-let-front/testmonials) |
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front)
@@ -73,6 +76,11 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **7 months**, I
 | **سير العمل** | Git, GitHub, Command Line (CLI), VS Code |
 | **مفاهيم أساسية** | Utility-First CSS, Clean Code, Performance Optimization, SEO, التصميم المتجاوب |
 
+### 🎯 الأهداف المستقبلية (خطة التعلم)
+* 🛠️ **Sass:** لإتقان معمارية الـ CSS المتقدمة وإدارة المشاريع الضخمة.
+* 🧠 **JavaScript:** التعمق في لغة الجافاسكريبت والبرمجة المنطقية.
+* ⚛️ **React.js:** احتراف أقوى Framework جافاسكريبت لبناء تطبيقات ويب حديثة وتفاعلية.
+
 ### 🛠️ تعمق في Tailwind CSS
 * **الفلسفة:** لو بوتستراب بيديك "باب جاهز"، تيلويند بيديك الخشب والدهان عشان تبني الباب اللي عاوزه بالظبط. إنت اللي بتصمم الـ UI مش بس بتستخدمه.
 * **البيئة الحديثة:** بستخدم **Vite** لسرعته و **Tailwind v4** لنظام الـ CSS-First اللي بيخلي الكود أنظف بكتير.
@@ -84,8 +92,6 @@ I’m **Ahmed**, a 15-year-old Front-End Developer. For the past **7 months**, I
 | <img src="RIS.png" width="350"> | **مشروع هودي RIS (بواسطة Tailwind)**<br> أحدث أعمالي التي تم بناؤها باستخدام Tailwind v4 لضمان أداء عالٍ. <br> 🔗 [ رابط الموقع](https://ahmed-let-front.github.io/RIS-hoodie/) \| [المستودع](https://github.com/Ahmed-let-front/RIS-hoodie.git) |
 | <img src="leon.png" width="350"> | **صفحة وكالة (Leon)**<br>قالب احترافي متعدد الأقسام مبني من الصفر.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/leon-template/) \| [المستودع](https://github.com/Ahmed-let-front/leon-template) |
 | <img src="kasper.png" width="350"> | **وكالة كاسبر الإبداعية (Kasper)**<br>صفحة هبوط عصرية تركز على دقة التصميم ونظافة الكود.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/kasper-template-tow/) \| [المستودع](https://github.com/Ahmed-let-front/kasper-template-tow) |
-| <img src="bento-grid.png" width="350"> | **تنسيق Bento Grid**<br>إتقان توزيع العناصر المعقدة باستخدام CSS Grid.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \| [المستودع](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
-| <img src="testmonials.png" width="350"> | **شبكة التقييمات**<br>تصميم Mobile-first مع تأثيرات ظلال مخصصة وتنسيق نصوص نظيف.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/testmonials/) \| [المستودع](https://github.com/Ahmed-let-front/testmonials) |
 
 ### 📫 تواصل معي
 [LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front)
