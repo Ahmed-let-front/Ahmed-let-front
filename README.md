@@ -46,11 +46,18 @@ I am a strong advocate for **Tailwind CSS** due to its revolutionary **Utility-F
 | <img src="leon.png" width="350">   | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template)             |
 | <img src="kasper.png" width="350"> | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow)           |
 
-### 📫 Connect with me
+---
 
-[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front) <br>
-📧 **Email**: letcosdgp@gmail.com <br>
-📱 **Phone**: +20 1050119571
+### 📞 Contact Me
+
+I am open to freelance work and technical discussions.
+
+| Channel              | Link / Info                                                                                                                                              |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LinkedIn**         | [![LinkedIn](https://img.shields.io/badge/Ahmed_Yasser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayr-uio-954897370/) |
+| **GitHub**           | [Ahmed-let-front](https://github.com/Ahmed-let-front)                                                                                                    |
+| **Email**            | [letcosdgp@gmail.com](mailto:letcosdgp@gmail.com)                                                                                                        |
+| **Phone / WhatsApp** | `+20 105 011 9571`                                                                                                                                       |
 
 ---
 
@@ -106,11 +113,18 @@ I am a strong advocate for **Tailwind CSS** due to its revolutionary **Utility-F
 | <img src="leon.png" width="350">   | **صفحة وكالة (Leon)**<br>قالب احترافي متعدد الأقسام مبني من الصفر.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/leon-template/) \| [المستودع](https://github.com/Ahmed-let-front/leon-template)                                     |
 | <img src="kasper.png" width="350"> | **وكالة كاسبر الإبداعية (Kasper)**<br>صفحة هبوط عصرية تركز على دقة التصميم ونظافة الكود.<br>🔗 [رابط الموقع](https://ahmed-let-front.github.io/kasper-template-tow/) \| [المستودع](https://github.com/Ahmed-let-front/kasper-template-tow)   |
 
-### 📫 تواصل معي
+---
 
-[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front) <br>
-📧 **البريد الإلكتروني**: letcosdgp@gmail.com <br>
-📱 **الهاتف**: 01050119571
+### 📞 تواصل معي
+
+أنا متاح للعمل الحر (Freelance) أو للمناقشة حول التقنية والتطوير.
+
+| القناة               | الرابط / المعلومات                                                                                                                                       |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LinkedIn**         | [![LinkedIn](https://img.shields.io/badge/Ahmed_Yasser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayr-uio-954897370/) |
+| **GitHub**           | [Ahmed-let-front](https://github.com/Ahmed-let-front)                                                                                                    |
+| **Email**            | [letcosdgp@gmail.com](mailto:letcosdgp@gmail.com)                                                                                                        |
+| **Phone / WhatsApp** | `+20 105 011 9571`                                                                                                                                       |
 
 ---
 
