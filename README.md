@@ -48,7 +48,9 @@ I am a strong advocate for **Tailwind CSS** due to its revolutionary **Utility-F
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front)
+[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front) <br>
+📧 **Email**: letcosdgp@gmail.com <br>
+📱 **Phone**: +20 1050119571
 
 ---
 
@@ -106,7 +108,9 @@ I am a strong advocate for **Tailwind CSS** due to its revolutionary **Utility-F
 
 ### 📫 تواصل معي
 
-[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front)
+[LinkedIn](https://www.linkedin.com/in/ayr-uio-954897370/) | [GitHub](https://github.com/Ahmed-let-front) <br>
+📧 **البريد الإلكتروني**: letcosdgp@gmail.com <br>
+📱 **الهاتف**: 01050119571
 
 ---
 
