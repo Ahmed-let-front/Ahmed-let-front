@@ -18,53 +18,58 @@
 
 ### 👤 The Engineering Mindset (About Me)
 
-I’m **Ahmed**, a **Junior Front-End Software Engineer**. At 15, my approach goes beyond merely writing code; I engineer scalable, high-performance web solutions. Over the past **7 months**, I have dedicated **8+ hours daily** (accumulating over 1,600+ hours of deep, focused coding) to mastering the complexities of the front-end ecosystem.
+I’m **Ahmed**, a **Junior Front-End Software Engineer**. At 15, my approach goes beyond merely writing code; I engineer scalable, high-performance web solutions. Over the past **7 months**, I have dedicated **8 to 10 hours daily** (accumulating over 1,600+ hours of deep, focused coding) to mastering the complexities of the front-end ecosystem and the browser rendering engine.
 
-In a record time of **just two months, I have successfully completed and deployed 14 distinct projects** (including 5 full-scale Landing Pages and 9 rigorous Frontend Mentor challenges).
+In a record time of **just two months, I have successfully completed and deployed 15 distinct projects** (including 6 full-scale Applications/Landing Pages and 9 rigorous Frontend Mentor challenges).
 
 **My Quality Baseline:**
 
 - 🎯 **90%+ Pixel-Perfect Accuracy:** Bridging the gap between design and code flawlessly.
-- ⚡ **95+ Minimum Lighthouse Score:** I refuse to deploy unoptimized code. Every project guarantees 95+ minimums across **Performance, Accessibility, Best Practices, and SEO**.
+- ⚡ **The "400 Club" Standard:** I refuse to deploy unoptimized code. My recent projects guarantee 100/100 scores across **Performance, Accessibility, Best Practices, and SEO**.
 
-### ⚙️ Under The Hood: Performance & Browser Architecture
+---
 
-I don't just write HTML/CSS; I engineer how the browser interprets and paints it. My entire development lifecycle is strictly governed by a deep understanding of the **Critical Rendering Path (CRP)** and the **Browser Engine**:
+### ⚙️ Under The Hood: Advanced Front-End Architecture
 
-- **CRP & Render Tree Optimization:** I engineer semantic HTML structures to ensure lightning-fast parsing and attachment. I actively avoid deep DOM nesting that bloats memory and chokes the Main Thread during the Critical Rendering Path.
-- **Mastering Reflow (Layout) & Repaint:** I know exactly which CSS properties trigger geometry changes vs. pixel updates. I actively avoid animating layout-triggering properties (like `width`, `margin`, `top`) to prevent expensive synchronous layout thrashing.
-- **Hardware Acceleration (Compositor Thread):** I exclusively use `transform` and `opacity` for animations, bypassing the layout/paint phases and pushing layers directly to the GPU (Compositor Thread) for buttery-smooth, unblocked 60fps performance.
-- **Stacking Contexts & Memory Management:** I strategically manage render layers using `z-index`, `isolation`, and `will-change`, ensuring exact visual rendering while preventing browser RAM bloat from excessive layer creation.
+I don't just write HTML/CSS; I engineer how the browser interprets and paints it. My entire development lifecycle is strictly governed by a deep understanding of DOM architecture and CSS algorithms:
 
-### 🛠️ Deep Dive: The Tailwind CSS Mastery
+- **Strict DOM Semantics (The "Bag" Mental Model):** I strictly enforce W3C HTML semantics to guarantee 100% Screen Reader accessibility. A common architectural flaw is invalid list nesting. I navigate this using the **"Container Bag"** mental model: The `<ul>` is an outer bag strictly designed to hold only one type of item—the `<li>` (the inner carrier bag). You cannot throw random items directly into the outer bag. Furthermore, if you want a nested dropdown menu, the new `<ul>` (a new outer bag) **must** be placed inside an `<li>` (an inner bag), _never_ directly as a child of another `<ul>`.
+- **Grid Mathematics (`auto-fit` vs `auto-fill`):** I master CSS Grid algorithms. By strategically utilizing `auto-fit`, I force the rendering engine to act as a visual garbage collector—collapsing empty "phantom" columns so flexible units (`1fr`) can flawlessly distribute space without layout fragmentation on ultra-wide screens.
+- **Zero-JS State Management:** I actively reduce JavaScript payloads by pushing state mutations entirely to the CSS engine. I build highly interactive components (like toggles and menus) using CSS State Lifting, the `:has()` pseudo-class, and the `peer` combinator.
+- **UX Precision (The "Block Link" Pattern):** To eliminate frustrating "dead click zones" in navigations, I aggressively strip physical dimensions from parent `<li>` wrappers and inject them directly into the anchor tags (`<a class="w-full h-full...">`), ensuring every physical pixel is instantly clickable.
+- **Hardware Acceleration:** I exclusively use `transform` and `opacity` for animations, bypassing expensive layout/paint phases and pushing layers directly to the GPU for unblocked **60 FPS** performance.
 
-Having fully mastered **Tailwind CSS**, I leverage it as an architectural tool rather than just a styling library.
+---
 
-- **Utility-First Architecture:** Building complex UIs without context-switching, directly within the markup.
-- **Zero PlayCDN in Production:** I strictly configure **Vite** and **PostCSS** (with Autoprefixer and CSSNano) to build and purge my CSS, guaranteeing the smallest possible payload.
-- **Modern v4.1 Engine:** Utilizing `@import "tailwindcss"` and native **CSS Variables** to harness the full power of the modern Just-In-Time (JIT) compiler.
+### 🏆 Latest Project Spotlight: The Elite Admin Dashboard
 
-### 💻 Technical Toolbox
+As concrete proof of my engineering mindset, my most recent and complex architecture—the **8-page Elite Admin Dashboard**—shattered performance benchmarks.
 
-| **Category**            | **Tools / Technologies**                                                                         |
-| :---------------------- | :----------------------------------------------------------------------------------------------- |
-| **Languages & Styling** | 🌐 HTML5, 🎨 CSS3, 💨 Tailwind CSS                                                               |
-| **Workflow & Build**    | ⚡ Vite, 📦 PostCSS, 🐙 Git & GitHub, 💻 Command Line (CLI)                                      |
-| **Core Competencies**   | 🚀 Web Performance, 🔍 SEO Optimization, 📱 Mobile-First Design, 🧠 Rendering Pipeline Awareness |
+By meticulously defining dimension constraints and enforcing strict GPU-accelerated animations, I achieved a flawless **100/100 across all four Lighthouse metrics** with a **0ms Total Blocking Time (TBT)**. More importantly, I engineered a rock-solid DOM layout that achieves a **0 Cumulative Layout Shift (CLS)** across the entire application, alongside sub-half-second First Contentful Paint (FCP).
 
-### 🏆 Latest Project Spotlight: The 100% Milestone
+<div align="center">
 
-As concrete proof of my engineering mindset, my most recent project—the **Modern Agency Template (Web 3)**—achieved a flawless **100% across all four Lighthouse metrics** (Performance, Accessibility, Best Practices, SEO) with a **0ms Total Blocking Time (TBT)**. This milestone is the direct result of strict CRP optimization, semantic architecture, and advanced Tailwind CSS configuration.
+![Elite Admin Dashboard Hero](hero.png)
 
-![Lighthouse Score 100](lighthouse.png)
-![Lighthouse Metrics 0ms](metrics.png)
+---
+
+![Dashboard Lighthouse Score 100](header.png)
+
+---
+
+![Dashboard Lighthouse Metrics 0 CLS](header2.png)
+
+</div>
+
+---
 
 ### 📂 Featured Projects (The Gallery)
 
 | Project Preview                                 | Details                                                                                                                                                                                                                                                                                                                                      |
 | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Elite Dashboard](hero.png)                    | 🌟 **Elite Admin Dashboard**<br>An advanced, meticulously engineered 8-page dashboard. Achieved a flawless 100/100 Lighthouse score on every single page with 0 CLS.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/Dashboard-01/) \| [Repo](https://github.com/Ahmed-let-front/Dashboard-01)                                           |
+| ![Modern Agency Template](template-web-3.png)   | **Modern Agency Template (Web 3)**<br>Built entirely with Tailwind CSS. Scored a flawless 100% across all metrics.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/teamplate-web-3/) \| [Repo](https://github.com/Ahmed-let-front/teamplate-web-3.git)                                                                                   |
 | ![RIS Landing Hoodie](RIS.png)                  | **RIS Landing Hoodie (Tailwind v4)**<br>Refactored for maximum performance and clean utility classes.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git)                                                                                                          |
-| ![Modern Agency Template](template-web-3.png)   | 🌟 **Modern Agency Template (Web 3)**<br>My crowning achievement built entirely with Tailwind CSS. Scored a flawless 100% across all metrics.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/teamplate-web-3/) \| [Repo](https://github.com/Ahmed-let-front/teamplate-web-3.git)                                                        |
 | ![Clipboard Landing Page](landing-mentor.png)   | **Clipboard Landing Page**<br>A fully responsive, complex landing page crafted with precise semantic HTML and flexbox layouts. Achieved >95% pixel-perfect matching.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/landing-page-in-frontend-mentor/) \| [Repo](https://github.com/Ahmed-let-front/landing-page-in-frontend-mentor.git) |
 | ![Agency Landing Page](leon.png)                | **Agency Landing Page (Leon)**<br>A professional multi-section template built from scratch.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template)                                                                                                                  |
 | ![Creative Agency](kasper.png)                  | **Creative Agency (Kasper)**<br>Modern landing page focusing on high-fidelity UI.<br>🔗 [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow)                                                                                                                |
