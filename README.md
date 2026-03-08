@@ -20,7 +20,7 @@
 
 I’m **Ahmed**, a **Junior Front-End Software Engineer**. At 15, my approach goes beyond merely writing code; I engineer scalable, high-performance web solutions. Over the past **7 months**, I have dedicated **8 to 10 hours daily** (accumulating over 1,600+ hours of deep, focused coding) to mastering the complexities of the front-end ecosystem and the browser rendering engine.
 
-In a record time of **just two months, I have successfully completed and deployed 15 distinct projects** (including 6 full-scale Applications/Landing Pages and 9 rigorous Frontend Mentor challenges).
+In a record time of **just two months, I have successfully completed and deployed 15 distinct projects** (consisting of **9** rigorous Frontend Mentor challenges, **5** full-scale Landing Pages, and **1** flawlessly engineered, 100%-optimized Admin Dashboard).
 
 **My Quality Baseline:**
 
