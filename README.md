@@ -61,11 +61,11 @@ By meticulously optimizing the Critical Rendering Path and enforcing strict GPU-
 
 ---
 
-![Dashboard Lighthouse Score 100](Dashboard.png)
+![Dashboard Lighthouse Score 100](header.png)
 
 ---
 
-![Dashboard Lighthouse Metrics 0 CLS](Dashboard2.png)
+![Dashboard Lighthouse Metrics 0 CLS](header2.png)
 
 </div>
 
