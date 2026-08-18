@@ -1,121 +1,63 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Ahmed%20Yasser&fontSize=60&animation=fadeIn" width="100%"/>
-
-# 🚀 Hi, I'm Ahmed Yasser
-
-### Junior Front-End Software Engineer | 15 Years Old
-
----
-
-### 🟢 Live Activity Board (Moving Data)
-![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-let-front&theme=tokyonight&area=true&hide_border=true)
-
----
-
-### 🧠 Engineering Skills Board
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />
-
----
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Command_Line-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=80&lines=Ahmed+Yasser;Driven+Junior+Front-End+Developer;Passionate+about+High-Performance+Web+Interfaces" alt="Typing SVG" /></a>
 </div>
 
----
-
-### 🏆 Real-Time Metrics Board
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=Ahmed-let-front&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
-### 👤 The Engineering Mindset (About Me)
-
-I’m **Ahmed**, a **Junior Front-End Software Engineer**. At 15, my approach goes beyond merely writing code; I engineer scalable, high-performance web solutions. Over the past **7 months**, I have dedicated **8 to 10 hours daily** (accumulating over 1,600+ hours of deep, focused coding) to mastering the complexities of the front-end ecosystem and the browser rendering engine.
-
-In a record time of **just two months, I have successfully completed and deployed 15 distinct projects** (consisting of **9** rigorous Frontend Mentor challenges, **5** full-scale Landing Pages, and **1** flawlessly engineered, 100%-optimized Admin Dashboard).
-
-**My Quality Baseline:**
-
-- 🎯 **90%+ Pixel-Perfect Accuracy:** Bridging the gap between design and code flawlessly.
-- ⚡ **The "400/400" Standard:** I refuse to deploy unoptimized code. My recent projects guarantee **400/400** scores across **Performance, Accessibility, Best Practices, and SEO**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-let-front&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat&logo=AppVeyor" alt="Availability Status Badge" />
+</p>
 
 ---
 
-### ⚙️ Under The Hood: Browser Architecture & The CRP
+## 🚀 What I Bring to the Table
 
-I don't just write HTML/CSS; I engineer how the browser interprets and paints it. My entire development lifecycle is strictly governed by a deep understanding of the **Browser Rendering Pipeline (BRP)** and the **Critical Rendering Path (CRP)**. Here is how I optimize every step of the rendering engine:
-
-- **1. Parsing (DOM & CSSOM Generation):** I write shallow, highly semantic HTML to ensure rapid construction of the **Document Object Model (DOM)**. Simultaneously, I utilize utility-first frameworks (like Tailwind) and purge unused styles to keep the **CSS Object Model (CSSOM)** extremely lightweight, preventing the CSS engine from blocking the main thread.
-- **2. The Render Tree Architecture:** I understand that the browser combines the DOM and CSSOM to create the **Render Tree** (which only contains visible elements). By strategically structuring my HTML and using `display: none` for non-critical off-canvas elements, I ensure the browser doesn't waste memory calculating nodes that the user cannot currently see.
-- **3. Layout (Reflow) Prevention:** I know exactly which CSS properties trigger geometry calculations. I actively avoid animating layout-triggering properties (like `width`, `height`, `margin`, or `top`/`left`) to prevent expensive synchronous "Reflows" that cause layout thrashing and jittery UI.
-- **4. Paint (Repaint) Optimization:** To minimize the pixels the browser has to redraw during interactions (like hover states), I rely on modern CSS patterns and state lifting, avoiding heavy background-color repaints over massive areas when possible.
-- **5. GPU Compositing (Hardware Acceleration):** This is where my UI achieves a rock-solid **60 FPS**. I exclusively use `transform` and `opacity` for UI animations. Coupled with the strategic use of `will-change`, I bypass the Layout and Paint phases entirely, pushing the rendering workload to isolated layers on the GPU (Compositor Thread).
+- **Proven Track Record:** Built 30+ real-world projects, focusing on scalable architecture, clean code, and interactive user experiences.
+- **Technical Expertise:** Core strength in HTML5, CSS3, Sass, Tailwind CSS (v4.1), JavaScript (ES6+), and Vite.
+- **Obsessed with Performance:** Aiming for perfect 400/400 Lighthouse scores across my projects, focusing strictly on Accessibility (a11y), SEO, Best Practices, and Web Vitals.
+- **Tools & Workflow:** Proficient in Git, GitHub, Command Line, and Markdown documentation workflows.
 
 ---
 
-### 🏛️ Advanced UI/UX Concepts
+## 🛠️ Tech Stack & Tools
 
-- **Strict DOM Semantics (The "Bag" Mental Model):** I strictly enforce W3C HTML semantics to guarantee 100% Screen Reader accessibility. I navigate list structures using the **"Container Bag"** mental model: The `<ul>` is an outer bag designed to hold only the `<li>` (the inner carrier bag). You cannot throw random items directly into the outer bag. 
-- **Grid Mathematics (`auto-fit` vs `auto-fill`):** By strategically utilizing `auto-fit`, I force the rendering engine to act as a visual garbage collector—collapsing empty "phantom" columns so flexible units (`1fr`) can flawlessly distribute space without layout fragmentation on ultra-wide screens.
-- **Zero-JS State Management:** I actively reduce JavaScript payloads by pushing state mutations entirely to the CSS engine via CSS State Lifting, the `:has()` pseudo-class, and the `peer` combinator.
-
----
-
-### 🏆 Latest Project Spotlight: The Elite Admin Dashboard
-
-<div align="center">
-
-![Elite Admin Dashboard Hero](hero.png)
-
-| Category | Lighthouse Score | Status |
-| :--- | :---: | :---: |
-| **Overall Performance** | 💯 **400/400** | **Certified** |
-| **Core Web Vitals** | **0ms TBT / 0 CLS** | **Optimized** |
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" />
+  <img src="https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Command Line Badge" />
+</p>
 
 ---
 
-![Dashboard Lighthouse Score 100](header.png)
+## 📊 GitHub Contributions & Stats
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38B2AC/Ahmed-let-front" alt="GitHub Contributions Custom Chart Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-let-front&theme=radical" alt="GitHub Stats Summary Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed-let-front&theme=radical" alt="GitHub Productive Time Activity Card" width="48%" />
+</p>
 
 ---
 
-![Dashboard Lighthouse Metrics 0 CLS](header2.png)
+## 📫 Let's Connect
 
-</div>
-
----
-
-### 📂 Full Engineering Gallery (15 Deployed Projects)
-
-| Project Preview | Details & Engineering Metrics |
-| :--- | :--- |
-| ![Elite Dashboard](hero.png) | 🌟 **Elite Admin Dashboard**<br> [Live Demo](https://ahmed-let-front.github.io/Dashboard-01/) \| [Repo](https://github.com/Ahmed-let-front/Dashboard-01) <br> ![Score](https://img.shields.io/badge/Lighthouse-400%2F400-success?style=flat-square&logo=lighthouse) |
-| ![Modern Agency Template](template-web-3.png) | **Modern Agency Template (Web 3)**<br> [Live Demo](https://ahmed-let-front.github.io/teamplate-web-3/) \| [Repo](https://github.com/Ahmed-let-front/teamplate-web-3.git) <br> ![Score](https://img.shields.io/badge/Lighthouse-400%2F400-success?style=flat-square&logo=lighthouse) |
-| ![RIS Landing Hoodie](RIS.png) | **RIS Landing Hoodie (Tailwind v4)**<br> [Live Demo](https://ahmed-let-front.github.io/RIS-hoodie/) \| [Repo](https://github.com/Ahmed-let-front/RIS-hoodie.git) |
-| ![Clipboard Landing Page](landing-mentor.png) | **Clipboard Landing Page**<br> [Live Demo](https://ahmed-let-front.github.io/landing-page-in-frontend-mentor/) \| [Repo](https://github.com/Ahmed-let-front/landing-page-in-frontend-mentor.git) |
-| ![Agency Landing Page](leon.png) | **Agency Landing Page (Leon)**<br> [Live Demo](https://ahmed-let-front.github.io/leon-template/) \| [Repo](https://github.com/Ahmed-let-front/leon-template) |
-| ![Creative Agency](kasper.png) | **Creative Agency (Kasper)**<br> [Live Demo](https://ahmed-let-front.github.io/kasper-template-tow/) \| [Repo](https://github.com/Ahmed-let-front/kasper-template-tow) |
-| ![Chat App CSS Illustration](chat-app.jpg) | **Chat App CSS Illustration**<br> [Live Demo](https://ahmed-let-front.github.io/chat-app/) \| [Repo](https://github.com/Ahmed-let-front/chat-app.git) |
-| ![Result Summary Component](summary-result.jpg) | **Result Summary Component**<br> [Live Demo](https://ahmed-let-front.github.io/result-summary-component-main/) \| [Repo](https://github.com/Ahmed-let-front/result-summary-component-main) |
-| ![Bento Grid Layout](bento-grid.png) | **Bento Grid Layout**<br> [Live Demo](https://ahmed-let-front.github.io/bento-grid-front-end-mentor-/) \| [Repo](https://github.com/Ahmed-let-front/bento-grid-front-end-mentor-) |
-| ![Testimonials Grid](testmonials.png) | **Testimonials Grid**<br> [Live Demo](https://ahmed-let-front.github.io/testmonials/) \| [Repo](https://github.com/Ahmed-let-front/testmonials) |
-| ![Product Preview Card](chanel.png) | **Product Preview Card**<br> [Live Demo](https://ahmed-let-front.github.io/product-chanel/) \| [Repo](https://github.com/Ahmed-let-front/product-chanel) |
-| ![Recipe Page](recipe.png) | **Recipe Page**<br> [Live Demo](https://ahmed-let-front.github.io/recipe/) \| [Repo](https://github.com/Ahmed-let-front/recipe) |
-| ![Social Links Profile](social-links.png) | **Social Links Profile**<br> [Live Demo](https://ahmed-let-front.github.io/social-links/) \| [Repo](https://github.com/Ahmed-let-front/social-links) |
-| ![Four-Card Feature Section](four-product.png) | **Four-Card Feature Section**<br> [Live Demo](https://ahmed-let-front.github.io/four-product/) \| [Repo](https://github.com/Ahmed-let-front/four-product) |
-| ![QR Code Component](qr.png) | **QR Code Component**<br> [Live Demo](https://ahmed-let-front.github.io/qr-code-frontend-meentor/) \| [Repo](https://github.com/Ahmed-let-front/qr-code-frontend-meentor) |
-
----
-
-<div align="center">
-
-### 🤝 Let's Engineer Something Great
-[![GitHub Badge](https://img.shields.io/badge/Visit_GitHub_Profile-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-let-front)
-
-![Visitors](https://komarev.com/ghpvc/?username=Ahmed-let-front&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="mailto:ahmedyasserlet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile Badge" />
+  </a>
+  <a href="https://wa.me/201050119571" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat Badge" />
+  </a>
+</p>
