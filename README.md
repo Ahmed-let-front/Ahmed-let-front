@@ -1,4 +1,4 @@
-<div align="center">
+P<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=80&lines=Ahmed+Yasser;Driven+Junior+Front-End+Developer;Passionate+about+High-Performance+Web+Interfaces" alt="Typing SVG" /></a>
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 What I Bring to the Table
 
-- **Proven Track Record:** Built 30+ real-world projects, focusing on scalable architecture, clean code, and interactive user experiences.
+- **Proven Track Record:** Built 40+ real-world projects, focusing on scalable architecture, clean code, and interactive user experiences.
 - **Technical Expertise:** Core strength in HTML5, CSS3, Sass, Tailwind CSS (v4.1), JavaScript (ES6+), and Vite.
 - **Obsessed with Performance:** Aiming for perfect 400/400 Lighthouse scores across my projects, focusing strictly on Accessibility (a11y), SEO, Best Practices, and Web Vitals.
 - **Tools & Workflow:** Proficient in Git, GitHub, Command Line, and Markdown documentation workflows.
